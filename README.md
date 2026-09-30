@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Todos — simple todo list web app
 
 A small, dependency-free todo list that runs entirely in the browser. No build step, no
